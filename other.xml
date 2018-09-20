@@ -1,0 +1,25 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="8.10.0" last-modified="1533838802000" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9bdf9adfccdf9edfcbdfcfdfcbdfcedfcedf98dfcedf93df9edf9bdfcbdf9adfccdf9edf99df93df9edf9bdfcfdf98df98dfcbdf99df9ddf9bdfccdfcfdfccdfc8dfcbdf9bdf99df9bdf9fdfcfdfcb</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="block64" />
+      <option name="repoName" value="combine_v2" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>

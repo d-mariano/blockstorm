@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="758dd765-526a-4c69-8ff3-9f1bbabe2cf4" name="Combine Dev" url="http://v2.dev.wavegrain.com">
+        <fileTransfer host="52.205.35.192" port="22" privateKey="$USER_HOME$/.ssh/wavegrain.com.pem" rootFolder="/vol/ubuntu/src/combine_v2" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
