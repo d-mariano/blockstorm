@@ -3,6 +3,7 @@
     <option name="generalConfigurationData">
       <GeneralConfigurationBean>
         <option name="anonymousEnhancedFeedbackEnabled" value="false" />
+        <option name="askedAboutDefaultServers" value="true" />
         <option name="statsCountersMap">
           <map>
             <entry key="a" value="0" />
