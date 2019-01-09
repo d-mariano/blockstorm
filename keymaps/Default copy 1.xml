@@ -16,6 +16,15 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="NewStylesheetFile">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="PhpNewFile">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PublishGroup.CompareLocalVsRemote">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -26,6 +35,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="TemplateProjectProperties">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
