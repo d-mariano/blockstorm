@@ -1,4 +1,9 @@
 <code_scheme name="Default" version="173">
+  <JSCodeStyleSettings version="1">
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="ALIGN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
@@ -16,7 +21,18 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="BINARY_OPERATION_WRAP" value="5" />
+    <option name="TERNARY_OPERATION_WRAP" value="5" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
