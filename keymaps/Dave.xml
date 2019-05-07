@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 1" parent="Default for XWin">
+<keymap version="1" name="Dave" parent="Default for XWin">
   <action id="ChangesView.Diff" />
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="ctrl d" />
