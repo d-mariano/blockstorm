@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../combineapp/controllers'" />
-    <option name="defaultScopeName" value="Directory '.../combineapp/controllers'" />
+    <option name="customScope" value="File '.../combineapp/models/Common_model.php'" />
+    <option name="defaultScopeName" value="File '.../combineapp/models/Common_model.php'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../combineapp/controllers'" />
+    <option name="SEARCH_SCOPE" value="File '.../combineapp/models/Common_model.php'" />
   </component>
 </application>
